@@ -1,0 +1,10 @@
+.Navbar {
+  display: flex;
+  justify-content: space-between;
+}
+
+.Navbar .nav-item {
+  padding: 25px 10px;
+  font-size: 2em;
+  font-weight: 500;
+}
